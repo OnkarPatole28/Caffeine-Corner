@@ -28,7 +28,7 @@ const Hero = () => {
           <div className="flex flex-col items-center">
             <Badge containerStyles="hidden xl:flex xl:w-[180px] xl:h-[180px]" />
             <h1 className="h1 text-white">
-              <span className="text-accent">Coffee</span> & Joy
+              <span className="text-accent">Coffine</span> Corner
             </h1>
           </div>
           {/* separator */}
